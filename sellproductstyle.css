@@ -1,50 +1,50 @@
 
-            .rcorners {
-              border-radius: 25px;
-              border: 1px solid #757771;
-              padding: 20px; 
-              width: 150px;
-              height: 10px;  
-            }
-            .rbox {
-              border-radius: 25px;
-              border: 1px solid #757771;
-              padding: 20px; 
-              width: 15px;
-              height: 15px;  
-            }
-            .checkbox-round {
-                width: 25px;
-                height: 25px;
-                background-color: white;
-                border-radius: 50%;
-                vertical-align: middle;
-                border: 2px solid #757771;
-                appearance: none;
-                -webkit-appearance: none;
-                outline: none;
-                cursor: pointer;
-            }
+.rcorners {
+    border-radius: 25px;
+    border: 1px solid #757771;
+    padding: 20px; 
+    width: 150px;
+    height: 10px;  
+}
+.rbox {
+    border-radius: 25px;
+    border: 1px solid #757771;
+    padding: 20px; 
+    width: 15px;
+    height: 15px;  
+}
+.checkbox-round {
+    width: 25px;
+    height: 25px;
+    background-color: white;
+    border-radius: 50%;
+    vertical-align: middle;
+    border: 2px solid #757771;
+    appearance: none;
+    -webkit-appearance: none;
+    outline: none;
+    cursor: pointer;
+}
 
-            .checkbox-round:checked {
-                background-color: #757771;
-            }
+.checkbox-round:checked {
+    background-color: #757771;
+}
 
-            .button {
-                background-color: #757771;
+.button {
+    background-color: #757771;
                 border: none;
-                color: white;
-                padding: 20px;
-                text-align: center;
-                text-decoration: none;
-                display: inline-block;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
                 font-size: 16px;
-                margin: 4px 2px;
-                border-radius: 12px;
-            }
-            .title {
-                font-size: 30px;
-            }
-            body{
-                background: #E3E6F3;
-            }
+    margin: 4px 2px;
+    border-radius: 12px;
+}
+.title {
+    font-size: 30px;
+}
+body{
+    background: #E3E6F3;
+}
